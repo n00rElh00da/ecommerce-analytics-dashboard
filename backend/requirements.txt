@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+google-auth
+requests
+pyjwt
+httpx
+pytest
+mongomock
